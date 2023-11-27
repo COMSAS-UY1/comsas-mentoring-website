@@ -8,7 +8,7 @@ export const Footer = () => {
       <a
         href="https://dilane3.com"
         target="_blank"
-        style={{ marginLeft: 7 }}
+        style={{ marginLeft: 7, color: "rgb(252, 100, 128)" }}
         rel="noreferrer"
       >
         {" "}

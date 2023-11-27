@@ -6,7 +6,7 @@ import { GodFatherCard } from "@/components/GodFatherCard";
 import { GodSonCard } from "@/components/GodSon";
 import { Confetti } from "@/components/Confetti";
 import { generateColor, sleep } from "../../utils/index";
-import { useState, useEffect } from "react";
+import  React, { useEffect, useState }  from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import DATA from "../../../public/data/data.json";

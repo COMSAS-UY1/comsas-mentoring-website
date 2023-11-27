@@ -59,8 +59,17 @@
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
 
-  --primary: #3e4bff;
-  --primary-light: #919cfd;
+  --x :radial-gradient(
+    rgb(238, 240, 241),
+    rgb( 172, 175, 176),
+    rgb(180, 185, 188),
+    rgb(131, 134, 135),
+    rgb(214, 219, 220),
+    rgb(255, 255, 255)
+  );
+
+  --primary: rgb(255, 131, 154);
+  --primary-light: rgb(255, 192, 203);
   --black: rgb(43, 38, 56);
 }
 

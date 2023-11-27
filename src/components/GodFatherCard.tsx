@@ -1,5 +1,5 @@
 import styles from "@/styles/card.module.css";
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { sleep } from "@/utils";
 
@@ -7,7 +7,7 @@ type GodFatherCardProps = {
   data: {
     id: number;
     name: string;
-    color: string;
+    color: string;    
   };
   action: string;
 };

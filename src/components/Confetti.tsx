@@ -1,5 +1,5 @@
 import { sleep } from "@/utils";
-import { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import ReactConfetti from "react-confetti";
 import { useWindowSize } from "react-use";
 

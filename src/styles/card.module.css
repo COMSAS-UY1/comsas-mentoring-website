@@ -8,9 +8,9 @@
   min-width: 100px;
   max-width: 200px;
   min-height: 150px;
-  background-color: red;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(68, 65, 65, 0.2);
+  background-color: white;
+  border-radius: 100px;
+  box-shadow: 0 0 10px rgba(255, 144, 144, 0.542);
   transition: all 0.3s ease-in-out;
   padding: 20px;
 }
@@ -24,9 +24,9 @@
   min-width: 100px;
   width: 260px;
   min-height: 100px;
-  background-color: yellowgreen;
+  background-color: white;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(68, 65, 65, 0.2);
+  box-shadow: 0 0 10px rgba(255, 136, 136, 0.848);
   transition: all 0.3s ease-in-out;
   padding: 10px;
 }
@@ -39,7 +39,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
+  color: #eeeeee;
   font-size: 20px;
   font-family: "Nunito Bold";
 }

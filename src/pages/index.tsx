@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import { Inter, Nunito } from "@next/font/google";
+import { Inter, Nunito } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import image1 from "/public/illustrations/graduation-hat.png";
 import image2 from "/public/illustrations/books-pile.png";
